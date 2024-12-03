@@ -1,0 +1,30 @@
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "The stage is empty, and no one is wearing gloves.", "label": 2}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "A person dressed in a leather jacket and gloves is present on the stage.", "label": 0}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "A young man with gloves is performing on stage.", "label": 1}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "There is no one jogging in the park today.", "label": 2}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "Some people are exercising outdoors in good weather.", "label": 0}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "People in the park are walking and chatting.", "label": 1}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "A woman in a blue outfit is presenting on stage.", "label": 2}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "A woman in red is speaking to an audience.", "label": 0}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "Someone is performing on stage, holding a microphone.", "label": 1}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "No children are present at the beach.", "label": 2}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "Children are playing in the sand by the ocean.", "label": 0}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "Kids are sitting quietly under a beach umbrella.", "label": 1}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "A man cycles through a bustling city.", "label": 0}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "No one is using bicycles in the city.", "label": 2}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "The man is walking his bike on a quiet road.", "label": 1}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "A dog is barking at the window.", "label": 2}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "An animal is observing the world from a windowsill.", "label": 0}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "The cat is lying down on a couch, not near the window.", "label": 1}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "A person is preparing food in a professional kitchen.", "label": 0}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "No one is cooking in the kitchen.", "label": 2}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "The chef is preparing dessert at a bakery.", "label": 1}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The family is enjoying their meal outdoors.", "label": 0}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "No one is eating in the park today.", "label": 2}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The group is setting up a barbecue by the lake.", "label": 1}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "A few people are walking on a scenic mountain trail.", "label": 0}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "There is no one on the mountain trail today.", "label": 2}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "The friends are skiing down a snowy slope.", "label": 1}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "An animal is moving quickly in a grassy area.", "label": 0}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "There are no animals in the field.", "label": 2}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "The dog is lying down on a porch, away from the grass.", "label": 1}
