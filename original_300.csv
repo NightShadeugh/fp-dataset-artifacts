@@ -1,0 +1,301 @@
+premise,hypothesis,label
+A Little League team tries to catch a runner sliding into a base in an afternoon game.,A team is trying to score the games winning out.,1
+A Little League team tries to catch a runner sliding into a base in an afternoon game.,A team is trying to tag a runner out.,0
+A Little League team tries to catch a runner sliding into a base in an afternoon game.,A team is playing baseball on Saturn.,2
+The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.,A school hosts a basketball game.,2
+The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.,A high school is hosting an event.,1
+The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.,A school is hosting an event.,0
+High fashion ladies wait outside a tram beside a crowd of people in the city.,The women do not care what clothes they wear.,2
+High fashion ladies wait outside a tram beside a crowd of people in the city.,Women are waiting by a tram.,0
+High fashion ladies wait outside a tram beside a crowd of people in the city.,The women enjoy having a good fashion sense.,1
+"A man, woman, and child enjoying themselves on a beach.","A child with mom and dad, on summer vacation at the beach.",1
+"A man, woman, and child enjoying themselves on a beach.",A family of three is at the beach.,0
+"A man, woman, and child enjoying themselves on a beach.",A family of three is at the mall shopping.,2
+People waiting to get on a train or just getting off.,The people waiting on the train are sitting.,1
+People waiting to get on a train or just getting off.,There are people just getting on a train,0
+People waiting to get on a train or just getting off.,There are people waiting on a train.,0
+A couple playing with a little boy on the beach.,A couple are playing with a young child outside.,0
+A couple playing with a little boy on the beach.,A couple are playing frisbee with a young child at the beach.,1
+A couple playing with a little boy on the beach.,A couple watch a little girl play by herself on the beach.,2
+A couple play in the tide with their young son.,The family is sitting down for dinner.,2
+A couple play in the tide with their young son.,The family is outside.,0
+A couple play in the tide with their young son.,The family is on vacation.,1
+A man and a woman cross the street in front of a pizza and gyro restaurant.,The people are standing still on the curb.,2
+A man and a woman cross the street in front of a pizza and gyro restaurant.,"Near a couple of restaurants, two people walk across the street.",0
+A man and a woman cross the street in front of a pizza and gyro restaurant.,The couple are walking across the street together.,1
+A woman in a green jacket and hood over her head looking towards a valley.,The woman is nake.,2
+A woman in a green jacket and hood over her head looking towards a valley.,The woman is cold.,1
+A woman in a green jacket and hood over her head looking towards a valley.,The woman is wearing green.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The man with the sign is caucasian.,1
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,They are protesting outside the capital.,2
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,A woman in white.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,A man is advertising for a restaurant.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The woman is wearing black.,2
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,A man and a woman walk down a crowded city street.,1
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The woman is wearing white.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,They are working for John's Pizza.,1
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,Olympic swimming.,2
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,A man and a soman are eating together at John's Pizza and Gyro.,2
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,They are walking with a sign.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The woman is waiting for a friend.,1
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The man is sitting down while he has a sign for John's Pizza and Gyro in his arms.,2
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The woman and man are outdoors.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,A woman ordering pizza.,1
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",The people are related.,1
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults run across the street to get away from a red shirted person chasing them.,2
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",The adults are both male and female.,0
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two people walk home after a tasty steak dinner.,1
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults swimming in water,2
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults walk across a street.,0
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two people ride bicycles into a tunnel.,2
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two people walk away from a restaurant across a street.,0
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults walking across a road near the convicted prisoner dressed in red,1
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two friends cross a street.,1
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Some people board a train.,2
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults walk across the street.,0
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults walking across a road,0
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",There are no women in the picture.,2
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults walk across the street to get away from a red shirted person who is chasing them.,1
+"A woman wearing all white and eating, walks next to a man holding a briefcase.",A married couple is sleeping.,2
+"A woman wearing all white and eating, walks next to a man holding a briefcase.",A female is next to a man.,0
+"A woman wearing all white and eating, walks next to a man holding a briefcase.",A married couple is walking next to each other.,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",Nobody has food.,2
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.","A woman eats a banana and walks across a street, and there is a man trailing behind her.",0
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",The woman and man are playing baseball together.,2
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",two coworkers cross pathes on a street,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.","A woman eats ice cream walking down the sidewalk, and there is another woman in front of her with a purse.",2
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",The mans briefcase is for work.,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",A person eating.,0
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",A person that is hungry.,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",An actress and her favorite assistant talk a walk in the city.,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",a woman eating a banana crosses a street,0
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",the woman is a seductress,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",a woman sits for lunch,2
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",the woman is having coffee at the cafe,2
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",The woman is eating a banana.,0
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",the woman is outside,0
+A skier slides along a metal rail.,A skier is near the rail looking down.,1
+A skier slides along a metal rail.,A skier is near the rail.,0
+A skier slides along a metal rail.,A skier is away from the rail.,2
+A person on skis on a rail at night.,The woman eats a car,2
+A person on skis on a rail at night.,The person skiis,0
+A person on skis on a rail at night.,They are fantastic skiiers,1
+A skier in electric green on the edge of a ramp made of metal bars.,The skier was on the edge of the ramp.,1
+A skier in electric green on the edge of a ramp made of metal bars.,The brightly dressed skier slid down the race course.,0
+A skier in electric green on the edge of a ramp made of metal bars.,The jogger ran through the streets.,2
+A yellow uniformed skier is performing a trick across a railed object.,A snowboarder is riding a ski lift.,2
+A yellow uniformed skier is performing a trick across a railed object.,A skier is competing in a competition.,1
+A yellow uniformed skier is performing a trick across a railed object.,Somebody is engaging in winter sports.,0
+A blond man is drinking from a public fountain.,The man is drinking water.,0
+A blond man is drinking from a public fountain.,The man is very thirsty.,1
+A blond man is drinking from a public fountain.,The man is drinking coffee.,2
+Wet brown dog swims towards camera.,The dog is sleeping in his bed.,2
+Wet brown dog swims towards camera.,A dog is playing fetch in a pond.,1
+Wet brown dog swims towards camera.,A dog is in the water.,0
+Closeup image of a dog swimming.,A cat reluctantly takes a bath.,2
+Closeup image of a dog swimming.,An underwater camera takes a photo of a puppy.,1
+Closeup image of a dog swimming.,A dog swims in a body of water.,0
+The furry brown dog is swimming in the ocean.,A dog is chasing a fish.,1
+The furry brown dog is swimming in the ocean.,A dog is swimming.,0
+The furry brown dog is swimming in the ocean.,A dog is running around the yard.,2
+A big brown dog swims towards the camera.,A dog is chasing a stick.,2
+A big brown dog swims towards the camera.,A photographer is taking pictures of a dog.,1
+A big brown dog swims towards the camera.,A dog swims towards the camera.,0
+"A man wearing black with a gray hat, holding a pitchfork, directs a horse-drawn cart.",The farmer wearing a gray hat is driving a horse-drawn cart.,1
+"A man wearing black with a gray hat, holding a pitchfork, directs a horse-drawn cart.",The man with the gray hat and pitchfork is directing the cart.,0
+"A man wearing black with a gray hat, holding a pitchfork, directs a horse-drawn cart.",The woman in a blue dress is hitching a horse to a cart.,2
+"A man is leading a Clydesdale up a hay road, within a Old Country.",A man is walking with his horse up a country road.,0
+"A man is leading a Clydesdale up a hay road, within a Old Country.",A woman in a gray business suit is drinking tea.,2
+"A man is leading a Clydesdale up a hay road, within a Old Country.",A man in a straw hat and overalls is walking with his horse up a country road.,1
+A farmer fertilizing his garden with manure with a horse and wagon.,The man is fertilizering his garden.,0
+A farmer fertilizing his garden with manure with a horse and wagon.,The man is on the city street with his horse and wagon.,2
+A farmer fertilizing his garden with manure with a horse and wagon.,The man is in an open field with a horse and wagon.,1
+A white horse is pulling a cart while a man stands and watches.,A horse is hauling goods.,1
+A white horse is pulling a cart while a man stands and watches.,An animal is walking outside.,0
+A white horse is pulling a cart while a man stands and watches.,A man is watching a horse race.,2
+A small group of church-goers watch a choir practice.,A group watches a practice.,0
+A small group of church-goers watch a choir practice.,A choir performs in front of packed crowd.,-1
+A small group of church-goers watch a choir practice.,The pastor and elders watch the choir to make sure they are good.,1
+A dog drops a red disc on a beach.,a dog catch the ball on a beach,2
+A dog drops a red disc on a beach.,a dog drops a disc with a boy,1
+A dog drops a red disc on a beach.,a dog drops a red disc,0
+A man and a woman are walking on a street at the top of a hill.,A married couple walks atop a hill.,1
+A man and a woman are walking on a street at the top of a hill.,A man and woman walk on a street.,0
+A man and a woman are walking on a street at the top of a hill.,Two men play catch on a hill.,2
+An elderly man is drinking orange juice at a cafe.,An elderly man is drinking apple juice at a bar.,2
+An elderly man is drinking orange juice at a cafe.,An older gentleman is enjoying his orange juice at a new cafe.,1
+An elderly man is drinking orange juice at a cafe.,An old man is enjoying a beverage at a cafe.,0
+A couple holding hands walks down a street.,Two men hold hands while walking down the street.,1
+A couple holding hands walks down a street.,There are people sitting on the side of the road.,2
+A couple holding hands walks down a street.,People are holding hands and walking.,0
+A couple walk through a white brick town.,People are walking outdoors.,0
+A couple walk through a white brick town.,A man and woman walk in a brown brick city.,2
+A couple walk through a white brick town.,A man and woman walk through a big city.,1
+Children going home from school.,The children are at the library.,2
+Children going home from school.,The school children head home.,0
+Children going home from school.,The children are walking in the afternooon.,1
+People listening to a choir in a Catholic church.,People are listening to a metal band.,2
+People listening to a choir in a Catholic church.,Choir singing in mass.,0
+People listening to a choir in a Catholic church.,People are in mass for a first communion,1
+Bicyclists waiting at an intersection.,A bicyclist is sitting down having lunch at the mall.,2
+Bicyclists waiting at an intersection.,The bicyclists are outside.,0
+Bicyclists waiting at an intersection.,Bicyclists waiting for a car to pass.,1
+Bicyclists waiting at an intersection.,A person on a bike is waiting while the light is green.,1
+Bicyclists waiting at an intersection.,The bicycles are on a road.,0
+Bicyclists waiting at an intersection.,A person on a bike is near a street.,0
+Bicyclists waiting at an intersection.,Bikers stop and wait for traffic at the intersection.,0
+Bicyclists waiting at an intersection.,The bicyclists ride through the mall on their bikes.,2
+Bicyclists waiting at an intersection.,Bicyclists waiting their turn to cross.,0
+Bicyclists waiting at an intersection.,Bicyclists riding along a freeway.,2
+Bicyclists waiting at an intersection.,The bicyclists are dead.,2
+Bicyclists waiting at an intersection.,The bicyclists are riding to the book store.,1
+Bicyclists waiting at an intersection.,The bicyclists are in a race.,1
+Bicyclists waiting at an intersection.,The bicyclists are at home.,2
+Bicyclists waiting at an intersection.,A group of bicyclists remain on the sidewalk at the intersection.,1
+People waiting at a light on bikes.,A bunch of friends are on a boat,2
+People waiting at a light on bikes.,People with bikes.,0
+People waiting at a light on bikes.,There are people on bikes at a light,1
+People waiting at a light on bikes.,The people are inside waiting.,2
+People waiting at a light on bikes.,There are some people outside.,0
+People waiting at a light on bikes.,People are on their bikes.,0
+People waiting at a light on bikes.,The people are riding their bikes to the gym.,1
+People waiting at a light on bikes.,People biking through the city.,1
+People waiting at a light on bikes.,The people are on bikes.,0
+People waiting at a light on bikes.,There is traffic next to the bikes.,1
+People waiting at a light on bikes.,The people are running a red light.,2
+People waiting at a light on bikes.,People in a car race.,2
+People waiting at a light on bikes.,Men and women outside on a street corner.,0
+People waiting at a light on bikes.,A ladybug has landed on a beautiful pink rose.,2
+People waiting at a light on bikes.,"Men and women on their motorcycles, wearing helmets and protective jackets.",1
+People on bicycles waiting at an intersection.,The people are on skateboards.,2
+People on bicycles waiting at an intersection.,People are riding their bicycles.,0
+People on bicycles waiting at an intersection.,There is a bike race happening right now.,1
+People on bicycles waiting at an intersection.,People on bicycles enjoy a conversation waiting for traffic.,1
+People on bicycles waiting at an intersection.,The people are trying to get to the convenience store across the street.,1
+People on bicycles waiting at an intersection.,People wait on traffic.,0
+People on bicycles waiting at an intersection.,Some people on bikes are stopped at a junction.,1
+People on bicycles waiting at an intersection.,People are waiting on foot.,2
+People on bicycles waiting at an intersection.,There are bicyclists stopped at a road.,0
+People on bicycles waiting at an intersection.,The people are sleeping.,2
+People on bicycles waiting at an intersection.,The people are waiting for the movie to begin.,2
+People on bicycles waiting at an intersection.,More than one person on a bicycle is obeying traffic laws.,0
+People on bicycles waiting at an intersection.,People are on mountain bikes.,1
+People on bicycles waiting at an intersection.,There are people on bicycles.,0
+People on bicycles waiting at an intersection.,People on bicycles speed through an intersection.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,The cart is empty.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man is giving another man a piggyback ride.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A cart is full of items.,0
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man is sleeping under a bench.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man watches another man.,0
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A produce vendor is watched by a health department worker.,1
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,"Someone is on top of a cart full of items, while someone else observes.",0
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,The man is watching a woman.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A merchant and his assistant are trying to determine how many products are in their cart.,1
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,The cart is full of coal.,1
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man is standing on top of a cart.,0
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,The cart is filled to the top.,0
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,The men are outside.,1
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man eats octopus.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man is standing on a cart full of groceries.,1
+A boy is drinking out of a water fountain shaped like a woman.,A male is getting a drink of water.,0
+A boy is drinking out of a water fountain shaped like a woman.,A sculptor takes a drink from a fountain that he made that looks like his girlfriend.,1
+A boy is drinking out of a water fountain shaped like a woman.,A man is drinking lemonade from a glass.,2
+three bikers stop in town.,cars stop in town,1
+three bikers stop in town.,Bikers stop in towns,0
+three bikers stop in town.,A town has witnessed the arrival of three bikers.,0
+three bikers stop in town.,Thoes bikers are slowing down,1
+three bikers stop in town.,The bikers are riding Harley's.,1
+three bikers stop in town.,Three bikers are going 100 mph,2
+three bikers stop in town.,The bikers breathe water,2
+three bikers stop in town.,Bikers stop for gas,0
+three bikers stop in town.,Three bicyclists are riding in a pack.,1
+three bikers stop in town.,There is a very angry dog.,2
+three bikers stop in town.,Three bikers are taking a rest in the town.,1
+three bikers stop in town.,The bikers are in the town.,0
+three bikers stop in town.,A group of bikers are in the street.,0
+three bikers stop in town.,The bikers didn't stop in the town.,2
+three bikers stop in town.,Five bikers are riding on the road.,2
+Two people loading brush on a trailer attached to a truck.,A man is carrying a canoe to the water.,2
+Two people loading brush on a trailer attached to a truck.,A couple of people are loading brush onto a trailer that is attached to a truck.,0
+Two people loading brush on a trailer attached to a truck.,Two people loading brush on a trailer attached to a truck so they can go camping and burn it.,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",a bearded man pulls a rope,0
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A bearded man is pulling a rope at work.,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A man pulls on a rope.,0
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",The man was on the job trying to move some equipment.,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",a man pulls his beard,2
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",a bearded man is pulling a car with his teeth.,2
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",a man competes in a rope pulling contest,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A man is trying to pull his car out of a lake,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",The man was clean shaven.,2
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A bearded man is pulling on a rope.,0
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A man is dragging a sled behind him.,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.","A man in a swimsuit, swings on a rope.",2
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A man is wearing a black shirt,2
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A man is pulling on a rope.,0
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",The man is able to grow a beard.,0
+A man with facial hair and a red and gray shirt tugging on a piece of rope.,A man is naked on the bed.,2
+A man with facial hair and a red and gray shirt tugging on a piece of rope.,A man is wearing a red and gray shirt.,1
+A man with facial hair and a red and gray shirt tugging on a piece of rope.,A man has facial hair.,0
+A middle-aged oriental woman in a green headscarf and blue shirt is flashing a giant smile.,The middle aged oriental woman is watchingt v,2
+A middle-aged oriental woman in a green headscarf and blue shirt is flashing a giant smile.,A middle aged oriental woman in a green headscarf and blue shirt is flashing a giant smile,0
+A middle-aged oriental woman in a green headscarf and blue shirt is flashing a giant smile.,The middle aged oriental woman is very happy,1
+An Asian woman in a blue top and green headscarf smiling widely as another woman rows a boat in the background.,An Asian woman is happy because she found money on the ground.,1
+An Asian woman in a blue top and green headscarf smiling widely as another woman rows a boat in the background.,An Asian woman is smiling at while another lady is rowing.,0
+An Asian woman in a blue top and green headscarf smiling widely as another woman rows a boat in the background.,An Asian woman is running from a dog.,2
+A boat worker securing line.,A worker is doing something to a boat.,0
+A boat worker securing line.,The boat worker is swimming in the ocean.,2
+A boat worker securing line.,The boat worker works hard to establish the line.,1
+A small girl with a necklace is swimming.,A small girl with a necklace is swimming in a pool,1
+A small girl with a necklace is swimming.,A fat girl is diving off the edge,2
+A small girl with a necklace is swimming.,A small girl with a necklace is in the water,0
+a skateboarder skates in the pool.,A skate swims in the pool.,2
+a skateboarder skates in the pool.,A skater is in the pool.,0
+a skateboarder skates in the pool.,A skater grinds on the lip of the pool.,1
+"A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization ""Save the Children.""",A man is wrapped in a UNICEF blanket.,2
+"A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization ""Save the Children.""",A couple carrying a child are walking along water.,0
+"A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization ""Save the Children.""",An Indian couple is seeking refuge with a humanitarian organization.,1
+"There is a woman holding a baby, along with a man with a save the children bag.",A group of people are possing for an add.,0
+"There is a woman holding a baby, along with a man with a save the children bag.",A man and a woman are hoding their son.,1
+"There is a woman holding a baby, along with a man with a save the children bag.",A man is watching an airplane.,2
+"A family with a baby, the father is wearing a save the children sign.",Three adults are pictured.,2
+"A family with a baby, the father is wearing a save the children sign.",A man is wearing something with writing on it.,0
+"A family with a baby, the father is wearing a save the children sign.",A woman is holding a baby.,1
+A foreign family is walking along a dirt path next to the water.,they are riding a bike,2
+A foreign family is walking along a dirt path next to the water.,People are walking next to a lake.,1
+A foreign family is walking along a dirt path next to the water.,A foreigner group of cousins hike along a trail next to a stream.,1
+A foreign family is walking along a dirt path next to the water.,A foreign family walks by a dirt trail along a body of water.,0
+A foreign family is walking along a dirt path next to the water.,The family is admiring the water,0
+A foreign family is walking along a dirt path next to the water.,The people are driving a car on the freeway.,2
+A foreign family is walking along a dirt path next to the water.,A family of foreigners swims in the water.,2
+A foreign family is walking along a dirt path next to the water.,they are trying not to fall in the water,1
+A foreign family is walking along a dirt path next to the water.,A group of locals run on a dirt trail next to a frozen stream.,2
+A foreign family is walking along a dirt path next to the water.,A family of foreigners walks by the water.,0
+A foreign family is walking along a dirt path next to the water.,A family walks along a dirt path.,0
+A foreign family is walking along a dirt path next to the water.,A family plays board games at their dinner table.,2
+A foreign family is walking along a dirt path next to the water.,There is a family taking a walk outside.,0
+A foreign family is walking along a dirt path next to the water.,A family walks along a dirt path in a forest by a pond.,1
+A foreign family is walking along a dirt path next to the water.,A family of foreigners walks by the lake.,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",People are looking at sculptures at a museum.,0
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",There are people next to sculptures.,0
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",A man and a woman are happily standing.,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",People standing near sculptures,0
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",Three people are looking at painting at a school fair.,2
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",Nobody is standing.,2
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",The sculptures are a recent creation.,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",A man and a woman are standing.,0
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",Tall people standing,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",The is a single sculpture.,2
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",The man and woman are standing by a swimming pool.,2
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",People are looking at scultures that were made by a famous artist.,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",There are sculptures of people.,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",There are scultupres nearby.,0
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",A man and a woman are sitting.,2
+Group of young women in dresses strolling on the sidewalk.,all the women are well dressed,1
+Group of young women in dresses strolling on the sidewalk.,all the young girls won the first prize,2
+Group of young women in dresses strolling on the sidewalk.,there are some groups one of them of young females are in dresses strolling for a ramp walk,0
+A man wearing a striped top and jeans does a skateboard trick on some steps while a man who is hunched over photographs him.,a man is photographing a man skateboarding.,0
+A man wearing a striped top and jeans does a skateboard trick on some steps while a man who is hunched over photographs him.,a man is riding his scooter alone,2
+A man wearing a striped top and jeans does a skateboard trick on some steps while a man who is hunched over photographs him.,tony hawks manager is photographing tony hawk skateboarding,1
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A man is taking the picture of a skateboarder who is being taken by aliens.,2
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,Photographers capture a male skateboarder performing tricks inside an abandoned building.,2
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A woman is skateboarding with her boyfriend.,2

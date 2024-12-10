@@ -1,0 +1,300 @@
+{"premise": "A Little League team tries to catch a runner sliding into a base in an afternoon game.", "hypothesis": "A team is trying to score the games winning out.", "label": 1}
+{"premise": "A Little League team tries to catch a runner sliding into a base in an afternoon game.", "hypothesis": "A team is trying to tag a runner out.", "label": 0}
+{"premise": "A Little League team tries to catch a runner sliding into a base in an afternoon game.", "hypothesis": "A team is playing baseball on Saturn.", "label": 2}
+{"premise": "The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.", "hypothesis": "A school hosts a basketball game.", "label": 2}
+{"premise": "The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.", "hypothesis": "A high school is hosting an event.", "label": 1}
+{"premise": "The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.", "hypothesis": "A school is hosting an event.", "label": 0}
+{"premise": "High fashion ladies wait outside a tram beside a crowd of people in the city.", "hypothesis": "The women do not care what clothes they wear.", "label": 2}
+{"premise": "High fashion ladies wait outside a tram beside a crowd of people in the city.", "hypothesis": "Women are waiting by a tram.", "label": 0}
+{"premise": "High fashion ladies wait outside a tram beside a crowd of people in the city.", "hypothesis": "The women enjoy having a good fashion sense.", "label": 1}
+{"premise": "A man, woman, and child enjoying themselves on a beach.", "hypothesis": "A child with mom and dad, on summer vacation at the beach.", "label": 1}
+{"premise": "A man, woman, and child enjoying themselves on a beach.", "hypothesis": "A family of three is at the beach.", "label": 0}
+{"premise": "A man, woman, and child enjoying themselves on a beach.", "hypothesis": "A family of three is at the mall shopping.", "label": 2}
+{"premise": "People waiting to get on a train or just getting off.", "hypothesis": "The people waiting on the train are sitting.", "label": 1}
+{"premise": "People waiting to get on a train or just getting off.", "hypothesis": "There are people just getting on a train", "label": 0}
+{"premise": "People waiting to get on a train or just getting off.", "hypothesis": "There are people waiting on a train.", "label": 0}
+{"premise": "A couple playing with a little boy on the beach.", "hypothesis": "A couple are playing with a young child outside.", "label": 0}
+{"premise": "A couple playing with a little boy on the beach.", "hypothesis": "A couple are playing frisbee with a young child at the beach.", "label": 1}
+{"premise": "A couple playing with a little boy on the beach.", "hypothesis": "A couple watch a little girl play by herself on the beach.", "label": 2}
+{"premise": "A couple play in the tide with their young son.", "hypothesis": "The family is sitting down for dinner.", "label": 2}
+{"premise": "A couple play in the tide with their young son.", "hypothesis": "The family is outside.", "label": 0}
+{"premise": "A couple play in the tide with their young son.", "hypothesis": "The family is on vacation.", "label": 1}
+{"premise": "A man and a woman cross the street in front of a pizza and gyro restaurant.", "hypothesis": "The people are standing still on the curb.", "label": 2}
+{"premise": "A man and a woman cross the street in front of a pizza and gyro restaurant.", "hypothesis": "Near a couple of restaurants, two people walk across the street.", "label": 0}
+{"premise": "A man and a woman cross the street in front of a pizza and gyro restaurant.", "hypothesis": "The couple are walking across the street together.", "label": 1}
+{"premise": "A woman in a green jacket and hood over her head looking towards a valley.", "hypothesis": "The woman is nake.", "label": 2}
+{"premise": "A woman in a green jacket and hood over her head looking towards a valley.", "hypothesis": "The woman is cold.", "label": 1}
+{"premise": "A woman in a green jacket and hood over her head looking towards a valley.", "hypothesis": "The woman is wearing green.", "label": 0}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "The man with the sign is caucasian.", "label": 1}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "They are protesting outside the capital.", "label": 2}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "A woman in white.", "label": 0}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "A man is advertising for a restaurant.", "label": 0}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "The woman is wearing black.", "label": 2}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "A man and a woman walk down a crowded city street.", "label": 1}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "The woman is wearing white.", "label": 0}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "They are working for John's Pizza.", "label": 1}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "Olympic swimming.", "label": 2}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "A man and a soman are eating together at John's Pizza and Gyro.", "label": 2}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "They are walking with a sign.", "label": 0}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "The woman is waiting for a friend.", "label": 1}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "The man is sitting down while he has a sign for John's Pizza and Gyro in his arms.", "label": 2}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "The woman and man are outdoors.", "label": 0}
+{"premise": "Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.", "hypothesis": "A woman ordering pizza.", "label": 1}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "The people are related.", "label": 1}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two adults run across the street to get away from a red shirted person chasing them.", "label": 2}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "The adults are both male and female.", "label": 0}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two people walk home after a tasty steak dinner.", "label": 1}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two adults swimming in water", "label": 2}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two adults walk across a street.", "label": 0}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two people ride bicycles into a tunnel.", "label": 2}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two people walk away from a restaurant across a street.", "label": 0}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two adults walking across a road near the convicted prisoner dressed in red", "label": 1}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two friends cross a street.", "label": 1}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Some people board a train.", "label": 2}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two adults walk across the street.", "label": 0}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two adults walking across a road", "label": 0}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "There are no women in the picture.", "label": 2}
+{"premise": "Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.", "hypothesis": "Two adults walk across the street to get away from a red shirted person who is chasing them.", "label": 1}
+{"premise": "A woman wearing all white and eating, walks next to a man holding a briefcase.", "hypothesis": "A married couple is sleeping.", "label": 2}
+{"premise": "A woman wearing all white and eating, walks next to a man holding a briefcase.", "hypothesis": "A female is next to a man.", "label": 0}
+{"premise": "A woman wearing all white and eating, walks next to a man holding a briefcase.", "hypothesis": "A married couple is walking next to each other.", "label": 1}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "Nobody has food.", "label": 2}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "A woman eats a banana and walks across a street, and there is a man trailing behind her.", "label": 0}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "The woman and man are playing baseball together.", "label": 2}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "two coworkers cross pathes on a street", "label": 1}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "A woman eats ice cream walking down the sidewalk, and there is another woman in front of her with a purse.", "label": 2}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "The mans briefcase is for work.", "label": 1}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "A person eating.", "label": 0}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "A person that is hungry.", "label": 1}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "An actress and her favorite assistant talk a walk in the city.", "label": 1}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "a woman eating a banana crosses a street", "label": 0}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "the woman is a seductress", "label": 1}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "a woman sits for lunch", "label": 2}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "the woman is having coffee at the cafe", "label": 2}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "The woman is eating a banana.", "label": 0}
+{"premise": "A woman is walking across the street eating a banana, while a man is following with his briefcase.", "hypothesis": "the woman is outside", "label": 0}
+{"premise": "A skier slides along a metal rail.", "hypothesis": "A skier is near the rail looking down.", "label": 1}
+{"premise": "A skier slides along a metal rail.", "hypothesis": "A skier is near the rail.", "label": 0}
+{"premise": "A skier slides along a metal rail.", "hypothesis": "A skier is away from the rail.", "label": 2}
+{"premise": "A person on skis on a rail at night.", "hypothesis": "The woman eats a car", "label": 2}
+{"premise": "A person on skis on a rail at night.", "hypothesis": "The person skiis", "label": 0}
+{"premise": "A person on skis on a rail at night.", "hypothesis": "They are fantastic skiiers", "label": 1}
+{"premise": "A skier in electric green on the edge of a ramp made of metal bars.", "hypothesis": "The skier was on the edge of the ramp.", "label": 1}
+{"premise": "A skier in electric green on the edge of a ramp made of metal bars.", "hypothesis": "The brightly dressed skier slid down the race course.", "label": 0}
+{"premise": "A skier in electric green on the edge of a ramp made of metal bars.", "hypothesis": "The jogger ran through the streets.", "label": 2}
+{"premise": "A yellow uniformed skier is performing a trick across a railed object.", "hypothesis": "A snowboarder is riding a ski lift.", "label": 2}
+{"premise": "A yellow uniformed skier is performing a trick across a railed object.", "hypothesis": "A skier is competing in a competition.", "label": 1}
+{"premise": "A yellow uniformed skier is performing a trick across a railed object.", "hypothesis": "Somebody is engaging in winter sports.", "label": 0}
+{"premise": "A blond man is drinking from a public fountain.", "hypothesis": "The man is drinking water.", "label": 0}
+{"premise": "A blond man is drinking from a public fountain.", "hypothesis": "The man is very thirsty.", "label": 1}
+{"premise": "A blond man is drinking from a public fountain.", "hypothesis": "The man is drinking coffee.", "label": 2}
+{"premise": "Wet brown dog swims towards camera.", "hypothesis": "The dog is sleeping in his bed.", "label": 2}
+{"premise": "Wet brown dog swims towards camera.", "hypothesis": "A dog is playing fetch in a pond.", "label": 1}
+{"premise": "Wet brown dog swims towards camera.", "hypothesis": "A dog is in the water.", "label": 0}
+{"premise": "Closeup image of a dog swimming.", "hypothesis": "A cat reluctantly takes a bath.", "label": 2}
+{"premise": "Closeup image of a dog swimming.", "hypothesis": "An underwater camera takes a photo of a puppy.", "label": 1}
+{"premise": "Closeup image of a dog swimming.", "hypothesis": "A dog swims in a body of water.", "label": 0}
+{"premise": "The furry brown dog is swimming in the ocean.", "hypothesis": "A dog is chasing a fish.", "label": 1}
+{"premise": "The furry brown dog is swimming in the ocean.", "hypothesis": "A dog is swimming.", "label": 0}
+{"premise": "The furry brown dog is swimming in the ocean.", "hypothesis": "A dog is running around the yard.", "label": 2}
+{"premise": "A big brown dog swims towards the camera.", "hypothesis": "A dog is chasing a stick.", "label": 2}
+{"premise": "A big brown dog swims towards the camera.", "hypothesis": "A photographer is taking pictures of a dog.", "label": 1}
+{"premise": "A big brown dog swims towards the camera.", "hypothesis": "A dog swims towards the camera.", "label": 0}
+{"premise": "A man wearing black with a gray hat, holding a pitchfork, directs a horse-drawn cart.", "hypothesis": "The farmer wearing a gray hat is driving a horse-drawn cart.", "label": 1}
+{"premise": "A man wearing black with a gray hat, holding a pitchfork, directs a horse-drawn cart.", "hypothesis": "The man with the gray hat and pitchfork is directing the cart.", "label": 0}
+{"premise": "A man wearing black with a gray hat, holding a pitchfork, directs a horse-drawn cart.", "hypothesis": "The woman in a blue dress is hitching a horse to a cart.", "label": 2}
+{"premise": "A man is leading a Clydesdale up a hay road, within a Old Country.", "hypothesis": "A man is walking with his horse up a country road.", "label": 0}
+{"premise": "A man is leading a Clydesdale up a hay road, within a Old Country.", "hypothesis": "A woman in a gray business suit is drinking tea.", "label": 2}
+{"premise": "A man is leading a Clydesdale up a hay road, within a Old Country.", "hypothesis": "A man in a straw hat and overalls is walking with his horse up a country road.", "label": 1}
+{"premise": "A farmer fertilizing his garden with manure with a horse and wagon.", "hypothesis": "The man is fertilizering his garden.", "label": 0}
+{"premise": "A farmer fertilizing his garden with manure with a horse and wagon.", "hypothesis": "The man is on the city street with his horse and wagon.", "label": 2}
+{"premise": "A farmer fertilizing his garden with manure with a horse and wagon.", "hypothesis": "The man is in an open field with a horse and wagon.", "label": 1}
+{"premise": "A white horse is pulling a cart while a man stands and watches.", "hypothesis": "A horse is hauling goods.", "label": 1}
+{"premise": "A white horse is pulling a cart while a man stands and watches.", "hypothesis": "An animal is walking outside.", "label": 0}
+{"premise": "A white horse is pulling a cart while a man stands and watches.", "hypothesis": "A man is watching a horse race.", "label": 2}
+{"premise": "A small group of church-goers watch a choir practice.", "hypothesis": "A group watches a practice.", "label": 0}
+{"premise": "A small group of church-goers watch a choir practice.", "hypothesis": "A choir performs in front of packed crowd.", "label": -1}
+{"premise": "A small group of church-goers watch a choir practice.", "hypothesis": "The pastor and elders watch the choir to make sure they are good.", "label": 1}
+{"premise": "A dog drops a red disc on a beach.", "hypothesis": "a dog catch the ball on a beach", "label": 2}
+{"premise": "A dog drops a red disc on a beach.", "hypothesis": "a dog drops a disc with a boy", "label": 1}
+{"premise": "A dog drops a red disc on a beach.", "hypothesis": "a dog drops a red disc", "label": 0}
+{"premise": "A man and a woman are walking on a street at the top of a hill.", "hypothesis": "A married couple walks atop a hill.", "label": 1}
+{"premise": "A man and a woman are walking on a street at the top of a hill.", "hypothesis": "A man and woman walk on a street.", "label": 0}
+{"premise": "A man and a woman are walking on a street at the top of a hill.", "hypothesis": "Two men play catch on a hill.", "label": 2}
+{"premise": "An elderly man is drinking orange juice at a cafe.", "hypothesis": "An elderly man is drinking apple juice at a bar.", "label": 2}
+{"premise": "An elderly man is drinking orange juice at a cafe.", "hypothesis": "An older gentleman is enjoying his orange juice at a new cafe.", "label": 1}
+{"premise": "An elderly man is drinking orange juice at a cafe.", "hypothesis": "An old man is enjoying a beverage at a cafe.", "label": 0}
+{"premise": "A couple holding hands walks down a street.", "hypothesis": "Two men hold hands while walking down the street.", "label": 1}
+{"premise": "A couple holding hands walks down a street.", "hypothesis": "There are people sitting on the side of the road.", "label": 2}
+{"premise": "A couple holding hands walks down a street.", "hypothesis": "People are holding hands and walking.", "label": 0}
+{"premise": "A couple walk through a white brick town.", "hypothesis": "People are walking outdoors.", "label": 0}
+{"premise": "A couple walk through a white brick town.", "hypothesis": "A man and woman walk in a brown brick city.", "label": 2}
+{"premise": "A couple walk through a white brick town.", "hypothesis": "A man and woman walk through a big city.", "label": 1}
+{"premise": "Children going home from school.", "hypothesis": "The children are at the library.", "label": 2}
+{"premise": "Children going home from school.", "hypothesis": "The school children head home.", "label": 0}
+{"premise": "Children going home from school.", "hypothesis": "The children are walking in the afternooon.", "label": 1}
+{"premise": "People listening to a choir in a Catholic church.", "hypothesis": "People are listening to a metal band.", "label": 2}
+{"premise": "People listening to a choir in a Catholic church.", "hypothesis": "Choir singing in mass.", "label": 0}
+{"premise": "People listening to a choir in a Catholic church.", "hypothesis": "People are in mass for a first communion", "label": 1}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "A bicyclist is sitting down having lunch at the mall.", "label": 2}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "The bicyclists are outside.", "label": 0}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "Bicyclists waiting for a car to pass.", "label": 1}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "A person on a bike is waiting while the light is green.", "label": 1}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "The bicycles are on a road.", "label": 0}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "A person on a bike is near a street.", "label": 0}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "Bikers stop and wait for traffic at the intersection.", "label": 0}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "The bicyclists ride through the mall on their bikes.", "label": 2}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "Bicyclists waiting their turn to cross.", "label": 0}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "Bicyclists riding along a freeway.", "label": 2}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "The bicyclists are dead.", "label": 2}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "The bicyclists are riding to the book store.", "label": 1}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "The bicyclists are in a race.", "label": 1}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "The bicyclists are at home.", "label": 2}
+{"premise": "Bicyclists waiting at an intersection.", "hypothesis": "A group of bicyclists remain on the sidewalk at the intersection.", "label": 1}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "A bunch of friends are on a boat", "label": 2}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "People with bikes.", "label": 0}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "There are people on bikes at a light", "label": 1}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "The people are inside waiting.", "label": 2}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "There are some people outside.", "label": 0}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "People are on their bikes.", "label": 0}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "The people are riding their bikes to the gym.", "label": 1}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "People biking through the city.", "label": 1}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "The people are on bikes.", "label": 0}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "There is traffic next to the bikes.", "label": 1}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "The people are running a red light.", "label": 2}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "People in a car race.", "label": 2}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "Men and women outside on a street corner.", "label": 0}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "A ladybug has landed on a beautiful pink rose.", "label": 2}
+{"premise": "People waiting at a light on bikes.", "hypothesis": "Men and women on their motorcycles, wearing helmets and protective jackets.", "label": 1}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "The people are on skateboards.", "label": 2}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "People are riding their bicycles.", "label": 0}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "There is a bike race happening right now.", "label": 1}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "People on bicycles enjoy a conversation waiting for traffic.", "label": 1}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "The people are trying to get to the convenience store across the street.", "label": 1}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "People wait on traffic.", "label": 0}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "Some people on bikes are stopped at a junction.", "label": 1}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "People are waiting on foot.", "label": 2}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "There are bicyclists stopped at a road.", "label": 0}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "The people are sleeping.", "label": 2}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "The people are waiting for the movie to begin.", "label": 2}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "More than one person on a bicycle is obeying traffic laws.", "label": 0}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "People are on mountain bikes.", "label": 1}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "There are people on bicycles.", "label": 0}
+{"premise": "People on bicycles waiting at an intersection.", "hypothesis": "People on bicycles speed through an intersection.", "label": 2}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "The cart is empty.", "label": 2}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "A man is giving another man a piggyback ride.", "label": 2}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "A cart is full of items.", "label": 0}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "A man is sleeping under a bench.", "label": 2}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "A man watches another man.", "label": 0}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "A produce vendor is watched by a health department worker.", "label": 1}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "Someone is on top of a cart full of items, while someone else observes.", "label": 0}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "The man is watching a woman.", "label": 2}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "A merchant and his assistant are trying to determine how many products are in their cart.", "label": 1}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "The cart is full of coal.", "label": 1}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "A man is standing on top of a cart.", "label": 0}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "The cart is filled to the top.", "label": 0}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "The men are outside.", "label": 1}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "A man eats octopus.", "label": 2}
+{"premise": "A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.", "hypothesis": "A man is standing on a cart full of groceries.", "label": 1}
+{"premise": "A boy is drinking out of a water fountain shaped like a woman.", "hypothesis": "A male is getting a drink of water.", "label": 0}
+{"premise": "A boy is drinking out of a water fountain shaped like a woman.", "hypothesis": "A sculptor takes a drink from a fountain that he made that looks like his girlfriend.", "label": 1}
+{"premise": "A boy is drinking out of a water fountain shaped like a woman.", "hypothesis": "A man is drinking lemonade from a glass.", "label": 2}
+{"premise": "three bikers stop in town.", "hypothesis": "cars stop in town", "label": 1}
+{"premise": "three bikers stop in town.", "hypothesis": "Bikers stop in towns", "label": 0}
+{"premise": "three bikers stop in town.", "hypothesis": "A town has witnessed the arrival of three bikers.", "label": 0}
+{"premise": "three bikers stop in town.", "hypothesis": "Thoes bikers are slowing down", "label": 1}
+{"premise": "three bikers stop in town.", "hypothesis": "The bikers are riding Harley's.", "label": 1}
+{"premise": "three bikers stop in town.", "hypothesis": "Three bikers are going 100 mph", "label": 2}
+{"premise": "three bikers stop in town.", "hypothesis": "The bikers breathe water", "label": 2}
+{"premise": "three bikers stop in town.", "hypothesis": "Bikers stop for gas", "label": 0}
+{"premise": "three bikers stop in town.", "hypothesis": "Three bicyclists are riding in a pack.", "label": 1}
+{"premise": "three bikers stop in town.", "hypothesis": "There is a very angry dog.", "label": 2}
+{"premise": "three bikers stop in town.", "hypothesis": "Three bikers are taking a rest in the town.", "label": 1}
+{"premise": "three bikers stop in town.", "hypothesis": "The bikers are in the town.", "label": 0}
+{"premise": "three bikers stop in town.", "hypothesis": "A group of bikers are in the street.", "label": 0}
+{"premise": "three bikers stop in town.", "hypothesis": "The bikers didn't stop in the town.", "label": 2}
+{"premise": "three bikers stop in town.", "hypothesis": "Five bikers are riding on the road.", "label": 2}
+{"premise": "Two people loading brush on a trailer attached to a truck.", "hypothesis": "A man is carrying a canoe to the water.", "label": 2}
+{"premise": "Two people loading brush on a trailer attached to a truck.", "hypothesis": "A couple of people are loading brush onto a trailer that is attached to a truck.", "label": 0}
+{"premise": "Two people loading brush on a trailer attached to a truck.", "hypothesis": "Two people loading brush on a trailer attached to a truck so they can go camping and burn it.", "label": 1}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "a bearded man pulls a rope", "label": 0}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "A bearded man is pulling a rope at work.", "label": 1}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "A man pulls on a rope.", "label": 0}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "The man was on the job trying to move some equipment.", "label": 1}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "a man pulls his beard", "label": 2}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "a bearded man is pulling a car with his teeth.", "label": 2}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "a man competes in a rope pulling contest", "label": 1}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "A man is trying to pull his car out of a lake", "label": 1}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "The man was clean shaven.", "label": 2}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "A bearded man is pulling on a rope.", "label": 0}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "A man is dragging a sled behind him.", "label": 1}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "A man in a swimsuit, swings on a rope.", "label": 2}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "A man is wearing a black shirt", "label": 2}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "A man is pulling on a rope.", "label": 0}
+{"premise": "A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.", "hypothesis": "The man is able to grow a beard.", "label": 0}
+{"premise": "A man with facial hair and a red and gray shirt tugging on a piece of rope.", "hypothesis": "A man is naked on the bed.", "label": 2}
+{"premise": "A man with facial hair and a red and gray shirt tugging on a piece of rope.", "hypothesis": "A man is wearing a red and gray shirt.", "label": 1}
+{"premise": "A man with facial hair and a red and gray shirt tugging on a piece of rope.", "hypothesis": "A man has facial hair.", "label": 0}
+{"premise": "A middle-aged oriental woman in a green headscarf and blue shirt is flashing a giant smile.", "hypothesis": "The middle aged oriental woman is watchingt v", "label": 2}
+{"premise": "A middle-aged oriental woman in a green headscarf and blue shirt is flashing a giant smile.", "hypothesis": "A middle aged oriental woman in a green headscarf and blue shirt is flashing a giant smile", "label": 0}
+{"premise": "A middle-aged oriental woman in a green headscarf and blue shirt is flashing a giant smile.", "hypothesis": "The middle aged oriental woman is very happy", "label": 1}
+{"premise": "An Asian woman in a blue top and green headscarf smiling widely as another woman rows a boat in the background.", "hypothesis": "An Asian woman is happy because she found money on the ground.", "label": 1}
+{"premise": "An Asian woman in a blue top and green headscarf smiling widely as another woman rows a boat in the background.", "hypothesis": "An Asian woman is smiling at while another lady is rowing.", "label": 0}
+{"premise": "An Asian woman in a blue top and green headscarf smiling widely as another woman rows a boat in the background.", "hypothesis": "An Asian woman is running from a dog.", "label": 2}
+{"premise": "A boat worker securing line.", "hypothesis": "A worker is doing something to a boat.", "label": 0}
+{"premise": "A boat worker securing line.", "hypothesis": "The boat worker is swimming in the ocean.", "label": 2}
+{"premise": "A boat worker securing line.", "hypothesis": "The boat worker works hard to establish the line.", "label": 1}
+{"premise": "A small girl with a necklace is swimming.", "hypothesis": "A small girl with a necklace is swimming in a pool", "label": 1}
+{"premise": "A small girl with a necklace is swimming.", "hypothesis": "A fat girl is diving off the edge", "label": 2}
+{"premise": "A small girl with a necklace is swimming.", "hypothesis": "A small girl with a necklace is in the water", "label": 0}
+{"premise": "a skateboarder skates in the pool.", "hypothesis": "A skate swims in the pool.", "label": 2}
+{"premise": "a skateboarder skates in the pool.", "hypothesis": "A skater is in the pool.", "label": 0}
+{"premise": "a skateboarder skates in the pool.", "hypothesis": "A skater grinds on the lip of the pool.", "label": 1}
+{"premise": "A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization \"Save the Children.\"", "hypothesis": "A man is wrapped in a UNICEF blanket.", "label": 2}
+{"premise": "A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization \"Save the Children.\"", "hypothesis": "A couple carrying a child are walking along water.", "label": 0}
+{"premise": "A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization \"Save the Children.\"", "hypothesis": "An Indian couple is seeking refuge with a humanitarian organization.", "label": 1}
+{"premise": "There is a woman holding a baby, along with a man with a save the children bag.", "hypothesis": "A group of people are possing for an add.", "label": 0}
+{"premise": "There is a woman holding a baby, along with a man with a save the children bag.", "hypothesis": "A man and a woman are hoding their son.", "label": 1}
+{"premise": "There is a woman holding a baby, along with a man with a save the children bag.", "hypothesis": "A man is watching an airplane.", "label": 2}
+{"premise": "A family with a baby, the father is wearing a save the children sign.", "hypothesis": "Three adults are pictured.", "label": 2}
+{"premise": "A family with a baby, the father is wearing a save the children sign.", "hypothesis": "A man is wearing something with writing on it.", "label": 0}
+{"premise": "A family with a baby, the father is wearing a save the children sign.", "hypothesis": "A woman is holding a baby.", "label": 1}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "they are riding a bike", "label": 2}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "People are walking next to a lake.", "label": 1}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "A foreigner group of cousins hike along a trail next to a stream.", "label": 1}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "A foreign family walks by a dirt trail along a body of water.", "label": 0}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "The family is admiring the water", "label": 0}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "The people are driving a car on the freeway.", "label": 2}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "A family of foreigners swims in the water.", "label": 2}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "they are trying not to fall in the water", "label": 1}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "A group of locals run on a dirt trail next to a frozen stream.", "label": 2}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "A family of foreigners walks by the water.", "label": 0}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "A family walks along a dirt path.", "label": 0}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "A family plays board games at their dinner table.", "label": 2}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "There is a family taking a walk outside.", "label": 0}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "A family walks along a dirt path in a forest by a pond.", "label": 1}
+{"premise": "A foreign family is walking along a dirt path next to the water.", "hypothesis": "A family of foreigners walks by the lake.", "label": 1}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "People are looking at sculptures at a museum.", "label": 0}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "There are people next to sculptures.", "label": 0}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "A man and a woman are happily standing.", "label": 1}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "People standing near sculptures", "label": 0}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "Three people are looking at painting at a school fair.", "label": 2}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "Nobody is standing.", "label": 2}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "The sculptures are a recent creation.", "label": 1}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "A man and a woman are standing.", "label": 0}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "Tall people standing", "label": 1}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "The is a single sculpture.", "label": 2}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "The man and woman are standing by a swimming pool.", "label": 2}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "People are looking at scultures that were made by a famous artist.", "label": 1}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "There are sculptures of people.", "label": 1}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "There are scultupres nearby.", "label": 0}
+{"premise": "A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.", "hypothesis": "A man and a woman are sitting.", "label": 2}
+{"premise": "Group of young women in dresses strolling on the sidewalk.", "hypothesis": "all the women are well dressed", "label": 1}
+{"premise": "Group of young women in dresses strolling on the sidewalk.", "hypothesis": "all the young girls won the first prize", "label": 2}
+{"premise": "Group of young women in dresses strolling on the sidewalk.", "hypothesis": "there are some groups one of them of young females are in dresses strolling for a ramp walk", "label": 0}
+{"premise": "A man wearing a striped top and jeans does a skateboard trick on some steps while a man who is hunched over photographs him.", "hypothesis": "a man is photographing a man skateboarding.", "label": 0}
+{"premise": "A man wearing a striped top and jeans does a skateboard trick on some steps while a man who is hunched over photographs him.", "hypothesis": "a man is riding his scooter alone", "label": 2}
+{"premise": "A man wearing a striped top and jeans does a skateboard trick on some steps while a man who is hunched over photographs him.", "hypothesis": "tony hawks manager is photographing tony hawk skateboarding", "label": 1}
+{"premise": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.", "hypothesis": "A man is taking the picture of a skateboarder who is being taken by aliens.", "label": 2}
+{"premise": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.", "hypothesis": "Photographers capture a male skateboarder performing tricks inside an abandoned building.", "label": 2}
+{"premise": "A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.", "hypothesis": "A woman is skateboarding with her boyfriend.", "label": 2}
