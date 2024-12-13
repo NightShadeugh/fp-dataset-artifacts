@@ -2,3 +2,8 @@
 output/
 venv
 trained_model
+trained_all/checkpoint-171/
+trained_augmented/checkpoint-81/
+trained_adversarial/checkpoint-93/
+trained_adversarial/checkpoint-310/
+trained_argumented_large/checkpoint-500/
