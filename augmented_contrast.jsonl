@@ -1,0 +1,210 @@
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "A person is training his horse for a competition.", "label": 1}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "While not directly implied, A person is training his horse for a competition. remains a plausible scenario.", "label": 1}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "The given information neither confirms nor refutes A person is training his horse for a competition..", "label": 1}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "A person is training his horse for a competition.", "label": 1}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "vitamin A person is training his horse for a competition.", "label": 1}
+{"premise": "A person on a horse jumps over a broken plane.", "hypothesis": "A person is training his horse for a competition.", "label": 1}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "A person forms his horse for a competition.", "label": 1}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "A person is training his horse for a swimming competition.", "label": 2}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "The premise fundamentally contradicts the assertion that A person is training his horse for a swimming competition..", "label": 2}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "Direct evidence suggests A person is training his horse for a swimming competition. is false.", "label": 2}
+{"premise": "A person on a horse jumps over a broken downcast airplane.", "hypothesis": "A person is training his horse for a swimming competition.", "label": 2}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "adenine person is training his horse for a swimming competition.", "label": 2}
+{"premise": "A person on a horse jumps over a broken plane.", "hypothesis": "A person is training his horse for a swimming competition.", "label": 2}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "A person forms his horse for a swimming competition.", "label": 2}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "A person is training his horse to jump over objects.", "label": 0}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "Given the context, A person is training his horse to jump over objects. is undeniably true.", "label": 0}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "The evidence strongly supports the claim that A person is training his horse to jump over objects..", "label": 0}
+{"premise": "A person on a horse jumps over a humbled down airplane.", "hypothesis": "A person is training his horse to jump over objects.", "label": 0}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "A person is training his horse to jump concluded objects.", "label": 0}
+{"premise": "A person on a horse jumps over a broken plane.", "hypothesis": "A person is training his horse to jump over objects.", "label": 0}
+{"premise": "A person on a horse jumps over a broken down airplane.", "hypothesis": "A person trains his horse to jump on objects.", "label": 0}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "They are smiling at their parents.", "label": 1}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "While not directly implied, They are smiling at their parents. remains a plausible scenario.", "label": 1}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "The given information neither confirms nor refutes They are smiling at their parents..", "label": 1}
+{"premise": "Children smiling and flourish at camera.", "hypothesis": "They are smiling at their parents.", "label": 1}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "They are smiling at their parents.", "label": 1}
+{"premise": "Children smiling and waving at the camera.", "hypothesis": "They are smiling at their parents.", "label": 1}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "They smile at their parents.", "label": 1}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "They are crying and hiding from their parents.", "label": 2}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "The premise fundamentally contradicts the assertion that They are crying and hiding from their parents..", "label": 2}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "Direct evidence suggests They are crying and hiding from their parents. is false.", "label": 2}
+{"premise": "Children grinning and waving at camera.", "hypothesis": "They are crying and hiding from their parents.", "label": 2}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "They are crying and hiding from their parents.", "label": 2}
+{"premise": "Children smiling and waving at the camera.", "hypothesis": "They are crying and hiding from their parents.", "label": 2}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "They cry and hide from their parents.", "label": 2}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "The children are waving at the camera while smiling at their parents.", "label": 0}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "Given the context, The children are waving at the camera while smiling at their parents. is undeniably true.", "label": 0}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "The evidence strongly supports the claim that The children are waving at the camera while smiling at their parents..", "label": 0}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "The children are waving at the camera while smiling at their parents.", "label": 0}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "The children are waving at the photographic camera while smiling at their parents.", "label": 0}
+{"premise": "Children smiling and waving at the camera.", "hypothesis": "The children are waving at the camera while smiling at their parents.", "label": 0}
+{"premise": "Children smiling and waving at camera.", "hypothesis": "Children ring the camera while smiling at their parents.", "label": 0}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy does a skateboarding trick.", "label": 0}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "Given the context, The boy does a skateboarding trick. is undeniably true.", "label": 0}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The evidence strongly supports the claim that The boy does a skateboarding trick..", "label": 0}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy does a skateboarding trick.", "label": 0}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy does a skateboarding trick.", "label": 0}
+{"premise": "A boy jumps on the skateboard in the middle of a red bridge.", "hypothesis": "The boy does a skateboarding trick.", "label": 0}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy's on a skate tour.", "label": 0}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy is practicing for a skateboarding competition.", "label": 1}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "While not directly implied, The boy is practicing for a skateboarding competition. remains a plausible scenario.", "label": 1}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The given information neither confirms nor refutes The boy is practicing for a skateboarding competition..", "label": 1}
+{"premise": "A boy equal jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy is practicing for a skateboarding competition.", "label": 1}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy is drill for a skateboarding competition.", "label": 1}
+{"premise": "A boy jumps on the skateboard in the middle of a red bridge.", "hypothesis": "The boy is practicing for a skateboarding competition.", "label": 1}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy is training for a skate competition.", "label": 1}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy is sitting on a bench, watching other skateboarders.", "label": 2}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The premise fundamentally contradicts the assertion that The boy is sitting on a bench, watching other skateboarders..", "label": 2}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "Direct evidence suggests The boy is sitting on a bench, watching other skateboarders. is false.", "label": 2}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy is sitting on a bench, watching other skateboarders.", "label": 2}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The male child is sitting on a bench, watching other skateboarders.", "label": 2}
+{"premise": "A boy jumps on the skateboard in the middle of a red bridge.", "hypothesis": "The boy is sitting on a bench, watching other skateboarders.", "label": 2}
+{"premise": "A boy is jumping on skateboard in the middle of a red bridge.", "hypothesis": "The boy is sitting on a bench, looking at other skaters.", "label": 2}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "An older man drinks his juice as he waits for his daughter to get off work.", "label": 1}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "While not directly implied, An older man drinks his juice as he waits for his daughter to get off work. remains a plausible scenario.", "label": 1}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "The given information neither confirms nor refutes An older man drinks his juice as he waits for his daughter to get off work..", "label": 1}
+{"premise": "An older man sits with his orange juice at a small table indium a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "An older man drinks his juice as he waits for his daughter to get off work.", "label": 1}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "An older man drinks his juice as he look for his daughter to get off work.", "label": 1}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright-coloured shirts smile in the background.", "hypothesis": "An older man drinks his juice as he waits for his daughter to get off work.", "label": 1}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "An older man drinks his juice while he waits for his daughter to leave work.", "label": 1}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "An older man is standing at the counter, eating a burger.", "label": 2}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "The premise fundamentally contradicts the assertion that An older man is standing at the counter, eating a burger..", "label": 2}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "Direct evidence suggests An older man is standing at the counter, eating a burger. is false.", "label": 2}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in promising colored shirts smile in the background.", "hypothesis": "An older man is standing at the counter, eating a burger.", "label": 2}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "Associate in Nursing older man is standing at the counter, eating a burger.", "label": 2}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright-coloured shirts smile in the background.", "hypothesis": "An older man is standing at the counter, eating a burger.", "label": 2}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "An older man stands at the counter, eating a hamburger.", "label": 2}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "An older man sits and enjoys his juice in a coffee shop.", "label": 0}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "Given the context, An older man sits and enjoys his juice in a coffee shop. is undeniably true.", "label": 0}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "The evidence strongly supports the claim that An older man sits and enjoys his juice in a coffee shop..", "label": 0}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smiling in the background.", "hypothesis": "An older man sits and enjoys his juice in a coffee shop.", "label": 0}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "An older valet sits and enjoys his juice in a coffee shop.", "label": 0}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright-coloured shirts smile in the background.", "hypothesis": "An older man sits and enjoys his juice in a coffee shop.", "label": 0}
+{"premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.", "hypothesis": "An older man is sitting and enjoying his juice in a coffee.", "label": 0}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Some women are hugging on vacation.", "label": 1}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "While not directly implied, Some women are hugging on vacation. remains a plausible scenario.", "label": 1}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "The given information neither confirms nor refutes Some women are hugging on vacation..", "label": 1}
+{"premise": "Two blond women are smooching one another.", "hypothesis": "Some women are hugging on vacation.", "label": 1}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Some women are cuddling on vacation.", "label": 1}
+{"premise": "Two blondes stick together.", "hypothesis": "Some women are hugging on vacation.", "label": 1}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Some women hug on vacation.", "label": 1}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Some women are arguing in a coffee shop.", "label": 2}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "The premise fundamentally contradicts the assertion that Some women are arguing in a coffee shop..", "label": 2}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Direct evidence suggests Some women are arguing in a coffee shop. is false.", "label": 2}
+{"premise": "Two blond women are fondling one another.", "hypothesis": "Some women are arguing in a coffee shop.", "label": 2}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Some women ar arguing in a coffee shop.", "label": 2}
+{"premise": "Two blondes stick together.", "hypothesis": "Some women are arguing in a coffee shop.", "label": 2}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Some women fight in a coffee shop.", "label": 2}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Two women are hugging each other in a friendly manner.", "label": 0}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Given the context, Two women are hugging each other in a friendly manner. is undeniably true.", "label": 0}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "The evidence strongly supports the claim that Two women are hugging each other in a friendly manner..", "label": 0}
+{"premise": "Two blond women live hugging one another.", "hypothesis": "Two women are hugging each other in a friendly manner.", "label": 0}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Two adult female are hugging each other in a friendly manner.", "label": 0}
+{"premise": "Two blondes stick together.", "hypothesis": "Two women are hugging each other in a friendly manner.", "label": 0}
+{"premise": "Two blond women are hugging one another.", "hypothesis": "Two women cling together in a friendly way.", "label": 0}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The people are eating omelettes.", "label": 1}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "While not directly implied, The people are eating omelettes. remains a plausible scenario.", "label": 1}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The given information neither confirms nor refutes The people are eating omelettes..", "label": 1}
+{"premise": "A few people in amp restaurant setting, one of them is drinking orange juice.", "hypothesis": "The people are eating omelettes.", "label": 1}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The people live eating omelettes.", "label": 1}
+{"premise": "A few people in a restaurant, one of them is to drink orange juice.", "hypothesis": "The people are eating omelettes.", "label": 1}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "People eat omelettes.", "label": 1}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The people are drinking coffee in the restaurant.", "label": 2}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The premise fundamentally contradicts the assertion that The people are drinking coffee in the restaurant..", "label": 2}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "Direct evidence suggests The people are drinking coffee in the restaurant. is false.", "label": 2}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The people are drinking coffee in the restaurant.", "label": 2}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The people are crapulence coffee in the restaurant.", "label": 2}
+{"premise": "A few people in a restaurant, one of them is to drink orange juice.", "hypothesis": "The people are drinking coffee in the restaurant.", "label": 2}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "People drink coffee at the restaurant.", "label": 2}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The people are drinking beverages in the restaurant.", "label": 0}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "Given the context, The people are drinking beverages in the restaurant. is undeniably true.", "label": 0}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The evidence strongly supports the claim that The people are drinking beverages in the restaurant..", "label": 0}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The people are drinking beverages in the restaurant.", "label": 0}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "The people are drinking beverages in the restaurant.", "label": 0}
+{"premise": "A few people in a restaurant, one of them is to drink orange juice.", "hypothesis": "The people are drinking beverages in the restaurant.", "label": 0}
+{"premise": "A few people in a restaurant setting, one of them is drinking orange juice.", "hypothesis": "People drink drinks at the restaurant.", "label": 0}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "A man is drinking juice.", "label": 0}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "Given the context, A man is drinking juice. is undeniably true.", "label": 0}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "The evidence strongly supports the claim that A man is drinking juice..", "label": 0}
+{"premise": "An older man is drinking orange juice at adenine restaurant.", "hypothesis": "A man is drinking juice.", "label": 0}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "ampere man is drinking juice.", "label": 0}
+{"premise": "An older man drinks orange juice in a restaurant.", "hypothesis": "A man is drinking juice.", "label": 0}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "A man drinks juice.", "label": 0}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "A man is having breakfast at the restaurant.", "label": 1}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "While not directly implied, A man is having breakfast at the restaurant. remains a plausible scenario.", "label": 1}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "The given information neither confirms nor refutes A man is having breakfast at the restaurant..", "label": 1}
+{"premise": "An older man is drinking orange succus at a restaurant.", "hypothesis": "A man is having breakfast at the restaurant.", "label": 1}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "A man is having breakfast at the restaurant.", "label": 1}
+{"premise": "An older man drinks orange juice in a restaurant.", "hypothesis": "A man is having breakfast at the restaurant.", "label": 1}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "A man has breakfast at the restaurant.", "label": 1}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "A man is drinking coffee.", "label": 2}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "The premise fundamentally contradicts the assertion that A man is drinking coffee..", "label": 2}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "Direct evidence suggests A man is drinking coffee. is false.", "label": 2}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "A man is drinking coffee.", "label": 2}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "angstrom man is drinking coffee.", "label": 2}
+{"premise": "An older man drinks orange juice in a restaurant.", "hypothesis": "A man is drinking coffee.", "label": 2}
+{"premise": "An older man is drinking orange juice at a restaurant.", "hypothesis": "A man drinks coffee.", "label": 2}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A blond man getting a drink of water from a fountain in the park.", "label": 1}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "While not directly implied, A blond man getting a drink of water from a fountain in the park. remains a plausible scenario.", "label": 1}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "The given information neither confirms nor refutes A blond man getting a drink of water from a fountain in the park..", "label": 1}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A blond man getting a drink of water from a fountain in the park.", "label": 1}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A blond man getting a drink of water from a fountain inward the park.", "label": 1}
+{"premise": "A man with blond hair, and a brown shirt that drinks in a public fountain.", "hypothesis": "A blond man getting a drink of water from a fountain in the park.", "label": 1}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A blond man who takes a glass of water from a fountain in the park.", "label": 1}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A man with dark hair drinking from home.", "label": 2}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "The premise fundamentally contradicts the assertion that A man with dark hair drinking from home..", "label": 2}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "Direct evidence suggests A man with dark hair drinking from home. is false.", "label": 2}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A man with dark hair drinking from home.", "label": 2}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A man with dark pilus drinking from home.", "label": 2}
+{"premise": "A man with blond hair, and a brown shirt that drinks in a public fountain.", "hypothesis": "A man with dark hair drinking from home.", "label": 2}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A man with dark hair drinking at home.", "label": 2}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A blond man drinking water from a fountain.", "label": 0}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "Given the context, A blond man drinking water from a fountain. is undeniably true.", "label": 0}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "The evidence strongly supports the claim that A blond man drinking water from a fountain..", "label": 0}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A blond man drinking water from a fountain.", "label": 0}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A blond man wassail water from a fountain.", "label": 0}
+{"premise": "A man with blond hair, and a brown shirt that drinks in a public fountain.", "hypothesis": "A blond man drinking water from a fountain.", "label": 0}
+{"premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.", "hypothesis": "A blond man drinking water from a fountain.", "label": 0}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "The friends scowl at each other over a full dinner table.", "label": 2}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "The premise fundamentally contradicts the assertion that The friends scowl at each other over a full dinner table..", "label": 2}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "Direct evidence suggests The friends scowl at each other over a full dinner table. is false.", "label": 2}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "The friends scowl at each other over a full dinner table.", "label": 2}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "The friends scowl at for each one other over a full dinner table.", "label": 2}
+{"premise": "Two women who just had lunch saying goodbye.", "hypothesis": "The friends scowl at each other over a full dinner table.", "label": 2}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "Friends kill each other on a full table.", "label": 2}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "Two women are having a conversation after lunch.", "label": 1}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "While not directly implied, Two women are having a conversation after lunch. remains a plausible scenario.", "label": 1}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "The given information neither confirms nor refutes Two women are having a conversation after lunch..", "label": 1}
+{"premise": "Two women who scarcely had lunch hugging and saying goodbye.", "hypothesis": "Two women are having a conversation after lunch.", "label": 1}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "Two womanhood are having a conversation after lunch.", "label": 1}
+{"premise": "Two women who just had lunch saying goodbye.", "hypothesis": "Two women are having a conversation after lunch.", "label": 1}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "Two women have a conversation after lunch.", "label": 1}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "Two women who just had lunch are hugging.", "label": 0}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "Given the context, Two women who just had lunch are hugging. is undeniably true.", "label": 0}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "The evidence strongly supports the claim that Two women who just had lunch are hugging..", "label": 0}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "Two women who just had lunch are hugging.", "label": 0}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "Two women who just had tiffin are hugging.", "label": 0}
+{"premise": "Two women who just had lunch saying goodbye.", "hypothesis": "Two women who just had lunch are hugging.", "label": 0}
+{"premise": "Two women who just had lunch hugging and saying goodbye.", "hypothesis": "Two women who just had lunch are hugging each other.", "label": 0}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags.", "label": 1}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "While not directly implied, The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags. remains a plausible scenario.", "label": 1}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The given information neither confirms nor refutes The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags..", "label": 1}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags.", "label": 1}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The two sis saw each other across the crowded diner and shared a hug, both clutching their doggie bags.", "label": 1}
+{"premise": "Two women, holding containers, hugs.", "hypothesis": "The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags.", "label": 1}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The two sisters saw each other through the crowded dinner and shared a hug, both of them sticking their dog bags.", "label": 1}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "Two sisters are arguing and throwing food at each other.", "label": 2}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The premise fundamentally contradicts the assertion that Two sisters are arguing and throwing food at each other..", "label": 2}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "Direct evidence suggests Two sisters are arguing and throwing food at each other. is false.", "label": 2}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "Two sisters are arguing and throwing food at each other.", "label": 2}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "II sisters are arguing and throwing food at each other.", "label": 2}
+{"premise": "Two women, holding containers, hugs.", "hypothesis": "Two sisters are arguing and throwing food at each other.", "label": 2}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "Two sisters fight and throw food at each other.", "label": 2}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The two sisters hug each other.", "label": 0}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "Given the context, The two sisters hug each other. is undeniably true.", "label": 0}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The evidence strongly supports the claim that The two sisters hug each other..", "label": 0}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The two sisters hug each other.", "label": 0}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The two sisters hug from each one other.", "label": 0}
+{"premise": "Two women, holding containers, hugs.", "hypothesis": "The two sisters hug each other.", "label": 0}
+{"premise": "Two women, holding food carryout containers, hug.", "hypothesis": "The two sisters cling together.", "label": 0}
