@@ -1,0 +1,210 @@
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "The stage is empty, and no one is wearing gloves.", "label": 2}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "The premise fundamentally contradicts the assertion that The stage is empty, and no one is wearing gloves..", "label": 2}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "Direct evidence suggests The stage is empty, and no one is wearing gloves. is false.", "label": 2}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "The stage is empty, and no one is wearing gloves.", "label": 2}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "The stage is empty, and no one is wearying gloves.", "label": 2}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on an illuminated scene, looking down.", "hypothesis": "The stage is empty, and no one is wearing gloves.", "label": 2}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "The scene is empty, and no one wears gloves.", "label": 2}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "A person dressed in a leather jacket and gloves is present on the stage.", "label": 0}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "Given the context, A person dressed in a leather jacket and gloves is present on the stage. is undeniably true.", "label": 0}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "The evidence strongly supports the claim that A person dressed in a leather jacket and gloves is present on the stage..", "label": 0}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "A person dressed in a leather jacket and gloves is present on the stage.", "label": 0}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "A person dressed in a leather jacket and gloves is acquaint on the stage.", "label": 0}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on an illuminated scene, looking down.", "hypothesis": "A person dressed in a leather jacket and gloves is present on the stage.", "label": 0}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "A person dressed in a leather jacket and gloves is present on stage.", "label": 0}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "A young man with gloves is performing on stage.", "label": 1}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "While not directly implied, A young man with gloves is performing on stage. remains a plausible scenario.", "label": 1}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "The given information neither confirms nor refutes A young man with gloves is performing on stage..", "label": 1}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "A young man with gloves is performing on stage.", "label": 1}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "A young military man with gloves is performing on stage.", "label": 1}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on an illuminated scene, looking down.", "hypothesis": "A young man with gloves is performing on stage.", "label": 1}
+{"premise": "A young black man wearing a dark leather jacket and gloves is standing on a lit stage, looking down.", "hypothesis": "A young man with gloves is performing on stage.", "label": 1}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "There is no one jogging in the park today.", "label": 2}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "The premise fundamentally contradicts the assertion that There is no one jogging in the park today..", "label": 2}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "Direct evidence suggests There is no one jogging in the park today. is false.", "label": 2}
+{"premise": "A group of citizenry are jogging in the park under a clear sky.", "hypothesis": "There is no one jogging in the park today.", "label": 2}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "in that location is no one jogging in the park today.", "label": 2}
+{"premise": "A group of people jogging in the park under a clear sky.", "hypothesis": "There is no one jogging in the park today.", "label": 2}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "There's no one in the park today.", "label": 2}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "Some people are exercising outdoors in good weather.", "label": 0}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "Given the context, Some people are exercising outdoors in good weather. is undeniably true.", "label": 0}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "The evidence strongly supports the claim that Some people are exercising outdoors in good weather..", "label": 0}
+{"premise": "A group of citizenry are jogging in the park under a clear sky.", "hypothesis": "Some people are exercising outdoors in good weather.", "label": 0}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "Some people follow exercising outdoors in good weather.", "label": 0}
+{"premise": "A group of people jogging in the park under a clear sky.", "hypothesis": "Some people are exercising outdoors in good weather.", "label": 0}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "Some people exercise outdoors in good weather.", "label": 0}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "People in the park are walking and chatting.", "label": 1}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "While not directly implied, People in the park are walking and chatting. remains a plausible scenario.", "label": 1}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "The given information neither confirms nor refutes People in the park are walking and chatting..", "label": 1}
+{"premise": "A group of people are square up in the park under a clear sky.", "hypothesis": "People in the park are walking and chatting.", "label": 1}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "People in the park exist walking and chatting.", "label": 1}
+{"premise": "A group of people jogging in the park under a clear sky.", "hypothesis": "People in the park are walking and chatting.", "label": 1}
+{"premise": "A group of people are jogging in the park under a clear sky.", "hypothesis": "People in the park walk and chat.", "label": 1}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "A woman in a blue outfit is presenting on stage.", "label": 2}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "The premise fundamentally contradicts the assertion that A woman in a blue outfit is presenting on stage..", "label": 2}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "Direct evidence suggests A woman in a blue outfit is presenting on stage. is false.", "label": 2}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "A woman in a blue outfit is presenting on stage.", "label": 2}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "A woman in a blue outfit is presenting along stage.", "label": 2}
+{"premise": "A woman in a red dress holds a microphone on a small stage.", "hypothesis": "A woman in a blue outfit is presenting on stage.", "label": 2}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "A blue-dressed woman shows up on stage.", "label": 2}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "A woman in red is speaking to an audience.", "label": 0}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "Given the context, A woman in red is speaking to an audience. is undeniably true.", "label": 0}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "The evidence strongly supports the claim that A woman in red is speaking to an audience..", "label": 0}
+{"premise": "amp woman in a red dress is holding a microphone on a small stage.", "hypothesis": "A woman in red is speaking to an audience.", "label": 0}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "A woman in red equal speaking to an audience.", "label": 0}
+{"premise": "A woman in a red dress holds a microphone on a small stage.", "hypothesis": "A woman in red is speaking to an audience.", "label": 0}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "A woman in red talks to an audience.", "label": 0}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "Someone is performing on stage, holding a microphone.", "label": 1}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "While not directly implied, Someone is performing on stage, holding a microphone. remains a plausible scenario.", "label": 1}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "The given information neither confirms nor refutes Someone is performing on stage, holding a microphone..", "label": 1}
+{"premise": "A char in a red dress is holding a microphone on a small stage.", "hypothesis": "Someone is performing on stage, holding a microphone.", "label": 1}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "Someone is performing on stage, holding a microphone.", "label": 1}
+{"premise": "A woman in a red dress holds a microphone on a small stage.", "hypothesis": "Someone is performing on stage, holding a microphone.", "label": 1}
+{"premise": "A woman in a red dress is holding a microphone on a small stage.", "hypothesis": "Someone's on stage, holding a microphone.", "label": 1}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "No children are present at the beach.", "label": 2}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "The premise fundamentally contradicts the assertion that No children are present at the beach..", "label": 2}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "Direct evidence suggests No children are present at the beach. is false.", "label": 2}
+{"premise": "Two small fry are building a sandcastle on the beach.", "hypothesis": "No children are present at the beach.", "label": 2}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "atomic number 102 children are present at the beach.", "label": 2}
+{"premise": "Two children build a sandy castle on the beach.", "hypothesis": "No children are present at the beach.", "label": 2}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "No children are present at the beach.", "label": 2}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "Children are playing in the sand by the ocean.", "label": 0}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "Given the context, Children are playing in the sand by the ocean. is undeniably true.", "label": 0}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "The evidence strongly supports the claim that Children are playing in the sand by the ocean..", "label": 0}
+{"premise": "Two children are establish a sandcastle on the beach.", "hypothesis": "Children are playing in the sand by the ocean.", "label": 0}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "Children are playing in the sand aside the ocean.", "label": 0}
+{"premise": "Two children build a sandy castle on the beach.", "hypothesis": "Children are playing in the sand by the ocean.", "label": 0}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "Children play in the sand by the ocean.", "label": 0}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "Kids are sitting quietly under a beach umbrella.", "label": 1}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "While not directly implied, Kids are sitting quietly under a beach umbrella. remains a plausible scenario.", "label": 1}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "The given information neither confirms nor refutes Kids are sitting quietly under a beach umbrella..", "label": 1}
+{"premise": "Two children are building axerophthol sandcastle on the beach.", "hypothesis": "Kids are sitting quietly under a beach umbrella.", "label": 1}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "Kids are sitting quiet under a beach umbrella.", "label": 1}
+{"premise": "Two children build a sandy castle on the beach.", "hypothesis": "Kids are sitting quietly under a beach umbrella.", "label": 1}
+{"premise": "Two children are building a sandcastle on the beach.", "hypothesis": "The children sit quietly under a beach umbrella.", "label": 1}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "A man cycles through a bustling city.", "label": 0}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "Given the context, A man cycles through a bustling city. is undeniably true.", "label": 0}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "The evidence strongly supports the claim that A man cycles through a bustling city..", "label": 0}
+{"premise": "A man is rid a bicycle down a busy street.", "hypothesis": "A man cycles through a bustling city.", "label": 0}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "A man round through a bustling city.", "label": 0}
+{"premise": "A man rides a bike on a busy street.", "hypothesis": "A man cycles through a bustling city.", "label": 0}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "A man goes through a bustling city.", "label": 0}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "No one is using bicycles in the city.", "label": 2}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "The premise fundamentally contradicts the assertion that No one is using bicycles in the city..", "label": 2}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "Direct evidence suggests No one is using bicycles in the city. is false.", "label": 2}
+{"premise": "A man is riding a bicycle go through a busy street.", "hypothesis": "No one is using bicycles in the city.", "label": 2}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "no more one is using bicycles in the city.", "label": 2}
+{"premise": "A man rides a bike on a busy street.", "hypothesis": "No one is using bicycles in the city.", "label": 2}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "Nobody uses bicycles in the city.", "label": 2}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "The man is walking his bike on a quiet road.", "label": 1}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "While not directly implied, The man is walking his bike on a quiet road. remains a plausible scenario.", "label": 1}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "The given information neither confirms nor refutes The man is walking his bike on a quiet road..", "label": 1}
+{"premise": "A man is riding axerophthol bicycle down a busy street.", "hypothesis": "The man is walking his bike on a quiet road.", "label": 1}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "The man is walking his bike on vitamin A quiet road.", "label": 1}
+{"premise": "A man rides a bike on a busy street.", "hypothesis": "The man is walking his bike on a quiet road.", "label": 1}
+{"premise": "A man is riding a bicycle down a busy street.", "hypothesis": "The man walks his bike on a quiet road.", "label": 1}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "A dog is barking at the window.", "label": 2}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "The premise fundamentally contradicts the assertion that A dog is barking at the window..", "label": 2}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "Direct evidence suggests A dog is barking at the window. is false.", "label": 2}
+{"premise": "vitamin A cat is sitting on a windowsill, looking outside.", "hypothesis": "A dog is barking at the window.", "label": 2}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "A dog is barking at the window.", "label": 2}
+{"premise": "A cat sits on a ledge of windows, looking outside.", "hypothesis": "A dog is barking at the window.", "label": 2}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "A dog barks at the window.", "label": 2}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "An animal is observing the world from a windowsill.", "label": 0}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "Given the context, An animal is observing the world from a windowsill. is undeniably true.", "label": 0}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "The evidence strongly supports the claim that An animal is observing the world from a windowsill..", "label": 0}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "An animal is observing the world from a windowsill.", "label": 0}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "An animal is observing the world from a windowsill.", "label": 0}
+{"premise": "A cat sits on a ledge of windows, looking outside.", "hypothesis": "An animal is observing the world from a windowsill.", "label": 0}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "An animal is watching the world from a window threshold.", "label": 0}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "The cat is lying down on a couch, not near the window.", "label": 1}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "While not directly implied, The cat is lying down on a couch, not near the window. remains a plausible scenario.", "label": 1}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "The given information neither confirms nor refutes The cat is lying down on a couch, not near the window..", "label": 1}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "The cat is lying down on a couch, not near the window.", "label": 1}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "The cat be lying down on a couch, not near the window.", "label": 1}
+{"premise": "A cat sits on a ledge of windows, looking outside.", "hypothesis": "The cat is lying down on a couch, not near the window.", "label": 1}
+{"premise": "A cat is sitting on a windowsill, looking outside.", "hypothesis": "The cat is lying on a couch, not near the window.", "label": 1}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "A person is preparing food in a professional kitchen.", "label": 0}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "Given the context, A person is preparing food in a professional kitchen. is undeniably true.", "label": 0}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "The evidence strongly supports the claim that A person is preparing food in a professional kitchen..", "label": 0}
+{"premise": "A chef is slicing vegetables in group A busy kitchen.", "hypothesis": "A person is preparing food in a professional kitchen.", "label": 0}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "A person is preparing food in vitamin A professional kitchen.", "label": 0}
+{"premise": "A chef sips vegetables in a well-filled kitchen.", "hypothesis": "A person is preparing food in a professional kitchen.", "label": 0}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "A person prepares food in a professional kitchen.", "label": 0}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "No one is cooking in the kitchen.", "label": 2}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "The premise fundamentally contradicts the assertion that No one is cooking in the kitchen..", "label": 2}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "Direct evidence suggests No one is cooking in the kitchen. is false.", "label": 2}
+{"premise": "A chef represent slicing vegetables in a busy kitchen.", "hypothesis": "No one is cooking in the kitchen.", "label": 2}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "No one is cooking Indiana the kitchen.", "label": 2}
+{"premise": "A chef sips vegetables in a well-filled kitchen.", "hypothesis": "No one is cooking in the kitchen.", "label": 2}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "Nobody cooks in the kitchen.", "label": 2}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "The chef is preparing dessert at a bakery.", "label": 1}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "While not directly implied, The chef is preparing dessert at a bakery. remains a plausible scenario.", "label": 1}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "The given information neither confirms nor refutes The chef is preparing dessert at a bakery..", "label": 1}
+{"premise": "A chef is slicing vegetable in a busy kitchen.", "hypothesis": "The chef is preparing dessert at a bakery.", "label": 1}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "The chef is organise dessert at a bakery.", "label": 1}
+{"premise": "A chef sips vegetables in a well-filled kitchen.", "hypothesis": "The chef is preparing dessert at a bakery.", "label": 1}
+{"premise": "A chef is slicing vegetables in a busy kitchen.", "hypothesis": "The chef prepares dessert in a bakery.", "label": 1}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The family is enjoying their meal outdoors.", "label": 0}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "Given the context, The family is enjoying their meal outdoors. is undeniably true.", "label": 0}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The evidence strongly supports the claim that The family is enjoying their meal outdoors..", "label": 0}
+{"premise": "A family is induce a picnic in a park under the shade of a tree.", "hypothesis": "The family is enjoying their meal outdoors.", "label": 0}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The folk is enjoying their meal outdoors.", "label": 0}
+{"premise": "A family makes a picnic in a park in the shade of a tree.", "hypothesis": "The family is enjoying their meal outdoors.", "label": 0}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The family appreciates their meals outside.", "label": 0}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "No one is eating in the park today.", "label": 2}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The premise fundamentally contradicts the assertion that No one is eating in the park today..", "label": 2}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "Direct evidence suggests No one is eating in the park today. is false.", "label": 2}
+{"premise": "A family is having a picnic in angstrom unit park under the shade of a tree.", "hypothesis": "No one is eating in the park today.", "label": 2}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "No one is eating in the park today.", "label": 2}
+{"premise": "A family makes a picnic in a park in the shade of a tree.", "hypothesis": "No one is eating in the park today.", "label": 2}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "Nobody eats in the park today.", "label": 2}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The group is setting up a barbecue by the lake.", "label": 1}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "While not directly implied, The group is setting up a barbecue by the lake. remains a plausible scenario.", "label": 1}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The given information neither confirms nor refutes The group is setting up a barbecue by the lake..", "label": 1}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The group is setting up a barbecue by the lake.", "label": 1}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The group represent setting up a barbecue by the lake.", "label": 1}
+{"premise": "A family makes a picnic in a park in the shade of a tree.", "hypothesis": "The group is setting up a barbecue by the lake.", "label": 1}
+{"premise": "A family is having a picnic in a park under the shade of a tree.", "hypothesis": "The group organizes a barbecue by the lake.", "label": 1}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "A few people are walking on a scenic mountain trail.", "label": 0}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "Given the context, A few people are walking on a scenic mountain trail. is undeniably true.", "label": 0}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "The evidence strongly supports the claim that A few people are walking on a scenic mountain trail..", "label": 0}
+{"premise": "A group of friends is hiking astir a mountain trail.", "hypothesis": "A few people are walking on a scenic mountain trail.", "label": 0}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "A few people are walking along a scenic mountain trail.", "label": 0}
+{"premise": "A group of friends walk on a mountain path.", "hypothesis": "A few people are walking on a scenic mountain trail.", "label": 0}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "Some people walk on a picturesque mountain path.", "label": 0}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "There is no one on the mountain trail today.", "label": 2}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "The premise fundamentally contradicts the assertion that There is no one on the mountain trail today..", "label": 2}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "Direct evidence suggests There is no one on the mountain trail today. is false.", "label": 2}
+{"premise": "A group of friends is boost up a mountain trail.", "hypothesis": "There is no one on the mountain trail today.", "label": 2}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "in that respect is no one on the mountain trail today.", "label": 2}
+{"premise": "A group of friends walk on a mountain path.", "hypothesis": "There is no one on the mountain trail today.", "label": 2}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "There's no one on the mountain path today.", "label": 2}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "The friends are skiing down a snowy slope.", "label": 1}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "While not directly implied, The friends are skiing down a snowy slope. remains a plausible scenario.", "label": 1}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "The given information neither confirms nor refutes The friends are skiing down a snowy slope..", "label": 1}
+{"premise": "A chemical group of friends is hiking up a mountain trail.", "hypothesis": "The friends are skiing down a snowy slope.", "label": 1}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "The friends are skiing down a snowy slope.", "label": 1}
+{"premise": "A group of friends walk on a mountain path.", "hypothesis": "The friends are skiing down a snowy slope.", "label": 1}
+{"premise": "A group of friends is hiking up a mountain trail.", "hypothesis": "Friends ski on a snowy slope.", "label": 1}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "An animal is moving quickly in a grassy area.", "label": 0}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "Given the context, An animal is moving quickly in a grassy area. is undeniably true.", "label": 0}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "The evidence strongly supports the claim that An animal is moving quickly in a grassy area..", "label": 0}
+{"premise": "A dog is running through a field of marvelous grass.", "hypothesis": "An animal is moving quickly in a grassy area.", "label": 0}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "An animal constitute moving quickly in a grassy area.", "label": 0}
+{"premise": "A dog crosses a field of tall grasses.", "hypothesis": "An animal is moving quickly in a grassy area.", "label": 0}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "An animal moves quickly in a grassy area.", "label": 0}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "There are no animals in the field.", "label": 2}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "The premise fundamentally contradicts the assertion that There are no animals in the field..", "label": 2}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "Direct evidence suggests There are no animals in the field. is false.", "label": 2}
+{"premise": "A dog is incline through a field of tall grass.", "hypothesis": "There are no animals in the field.", "label": 2}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "There are atomic number 102 animals in the field.", "label": 2}
+{"premise": "A dog crosses a field of tall grasses.", "hypothesis": "There are no animals in the field.", "label": 2}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "There are no animals in the field.", "label": 2}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "The dog is lying down on a porch, away from the grass.", "label": 1}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "While not directly implied, The dog is lying down on a porch, away from the grass. remains a plausible scenario.", "label": 1}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "The given information neither confirms nor refutes The dog is lying down on a porch, away from the grass..", "label": 1}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "The dog is lying down on a porch, away from the grass.", "label": 1}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "The dog is lying down along a porch, away from the grass.", "label": 1}
+{"premise": "A dog crosses a field of tall grasses.", "hypothesis": "The dog is lying down on a porch, away from the grass.", "label": 1}
+{"premise": "A dog is running through a field of tall grass.", "hypothesis": "The dog is lying on a porch, away from the grass.", "label": 1}

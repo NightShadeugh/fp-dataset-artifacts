@@ -190,11 +190,11 @@ class DataAugmenter:
 
 def main():
     # Load dataset
-    with open('adversarial_set.jsonl', 'r') as f:
+    with open('adversarial_set_train.jsonl', 'r') as f:
         dataset = [json.loads(line) for line in f]
     augmenter = DataAugmenter()
     augmented_data = augmenter.augment_data(dataset)
-    with open('augmented.jsonl', 'w') as f:
+    with open('augmented_train.jsonl', 'w') as f:
         for entry in augmented_data:
             f.write(json.dumps(entry) + '\n')
 
